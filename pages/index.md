@@ -4,8 +4,8 @@ Companies are looking for ways to deliver bigger and more predictably successful
 
 <Bleed full>
 <iframe src="https://datastudio.google.com/embed/reporting/50a548df-9f78-4314-8f26-dccbb08f892b/page/6zXD" 
-     width="100%"
-     height="100%"
+     width="700"
+     height="550"
      title="Sample dashboard"
    ></iframe>
 </Bleed>
