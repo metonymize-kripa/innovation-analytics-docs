@@ -1,6 +1,6 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/metonymize-kripa/innovation-analytics-docs',
+  titleSuffix: ' – InnovationAnalytics',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Innovation Analytics</span>
