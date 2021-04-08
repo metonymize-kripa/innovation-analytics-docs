@@ -5,11 +5,9 @@ Companies are looking for ways to deliver bigger and more predictably successful
 ![](/innovation-demo.png)
 
 <Bleed full>
-<iframe 
-        width="600" 
-        height="450" 
-        src="https://datastudio.google.com/embed/reporting/50a548df-9f78-4314-8f26-dccbb08f892b/page/6zXD" 
-        frameborder="0" 
-        style="border:0"
-        ></iframe>
+<iframe src="https://datastudio.google.com/embed/reporting/50a548df-9f78-4314-8f26-dccbb08f892b/page/6zXD" 
+     width="100%"
+     height="500px"
+     title="SWR-States"
+   ></iframe>
 </Bleed>
