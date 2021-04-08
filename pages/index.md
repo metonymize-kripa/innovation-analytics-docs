@@ -2,4 +2,4 @@
 
 Companies are looking for ways to deliver bigger and more predictably successful innovation.  We are exploring the ability to leverage Big Data from sources like Amazon, Walmart, Google, brand-com sites, search, ratings, and reviews combined with new algorithmic approaches that will let innovators and strategists like you drive stronger brand strategies and develop products faster at a lower development cost and with higher probabilities of success.
 
-![](/innovation.png)
+![](/innovation-demo.png)
