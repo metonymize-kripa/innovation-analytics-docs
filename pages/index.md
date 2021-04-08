@@ -9,7 +9,6 @@ Companies are looking for ways to deliver bigger and more predictably successful
         width="600" 
         height="450" 
         src="https://datastudio.google.com/embed/reporting/50a548df-9f78-4314-8f26-dccbb08f892b/page/6zXD" 
-        frameborder="0" style="border:0" 
-        allowfullscreen
+        frameborder="0" style="border:0"
         ></iframe>
 </Bleed>
