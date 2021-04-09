@@ -5,7 +5,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Innovation Analytics</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        At scale using Web and eCommerce data
+        At scale using Web, eCommerce, Patents, etc.
       </span>
     </>
   ),
