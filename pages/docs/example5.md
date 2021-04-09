@@ -1,4 +1,3 @@
-# Example 5: Automated text classification of Patent and Technical
-papers
+# Example 5: Machine assisted classification of Patents/Research papers
 
 ![](/example5.png)
