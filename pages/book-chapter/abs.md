@@ -1,4 +1,4 @@
-# Abstract: Big Data's future promise for Innovation Analytics
+# Abstract: Big Data's promise for Consumer Innovation
 
-Innovation analytics can be defined as the use of data to enable innovation in products and services. By innovation we mean a product cycle ending with new product launch. Focused particularly on advancement in learn- ing techniques and analytics for innovation in the context of an exponential growth in behavioral and performance data via adoption of networked digi- tal commerce, search and communication platforms (e.g. Amazon, Google, Facebook).
+Innovation analytics can be defined as the use of data to enable the design and marketing of new products and services. By consumer innovation we mean a development cycle ending in a new consumer product launch. Focused particularly on advancement in the context of an exponential growth in consumer behavioral and marketing performance data via adoption of networked digital commerce, search and communication platforms (e.g. Amazon, Google, Facebook).
 
