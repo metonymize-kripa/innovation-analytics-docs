@@ -7,8 +7,7 @@ The practical work of this project includes:
   – Insight mining tools to model customer needs and behavior
   – Competitor and technology data mining to shape R&D and product development
   – Digital marketing innovation (e.g. Amazon, Google) to efficiently reach the right shopper
-- Summarize tradeoffs implicit in Network Innovation Vs Invention and
-  catalog technologies that help
+- Summarize tradeoffs implicit in Network Innovation Vs Invention and catalog technologies that help
   - Our premise, is that success in networked innovation is driven disproportionately by the identification and framing of important problem areas, of immediate value to customers/users
-  - Along these lines, we introduct with references a sample of technical advances applicable to Consumer Innovation
+  - Along these lines, we introduce, with references, a handful of technical advances applicable to Consumer Innovation
 
