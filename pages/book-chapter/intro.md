@@ -5,8 +5,9 @@ Innovation is on everyone’s mind, as shown in in Fig. 1, even more than artifi
 cial intelligence, big data, and deep learning. 
 
 ![Figure 1](/ai-bigdata-innovation-ngram.png "Figure 1")
-<Callout emoji='💡'>
-Figure 1: Strong interest in innovation shows e.g. in Google ngrams https://books.google.com/ngrams/graph?content=innovation%2Cartificial+intelligence%2C big+data%2Cmachine+learning&year start=1900&year end=2019&corpus=26&smoothing=3.
+
+<Callout emoji="💡">
+Figure 1: Strong interest in innovation shows e.g. in Google ngrams <Link <a href="https://books.google.com/ngrams/graph?content=innovation%2Cartificial+intelligence%2Cbig+data%2Cmachine+learning&year start=1900&year end=2019&corpus=26&smoothing=3">HERE</a></Link>.
 </Callout>
 
 Obviously innovation is culture dependent, for nation scale innovation see e.g. [Kottak, 1990], for enterprise innovation see [By Udo Kopka & Patrick Simon, 2020, Kristin Behrmann, 2019].
