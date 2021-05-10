@@ -8,8 +8,7 @@ The practical work of this project includes:
   – Competitor and technology data mining to shape R&D and product development
   – Digital marketing innovation (e.g. Amazon, Google) to efficiently reach the right shopper
 - Summarize tradeoffs implicit in Network Innovation Vs Invention and
-  catalog the technologies that can help
-  - Our premise, is that success in networked innovation is driven disproportionately by the identification and framing of important problem areas, of immediate value to customers/users.
-  - Ouitline with references a sample of technical advances applicable to Consumer
-  Innovation
+  catalog technologies that help
+  - Our premise, is that success in networked innovation is driven disproportionately by the identification and framing of important problem areas, of immediate value to customers/users
+  - Along these lines, we introduct with references a sample of technical advances applicable to Consumer Innovation
 
