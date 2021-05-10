@@ -7,7 +7,7 @@ cial intelligence, big data, and deep learning.
 ![Figure 1](/ai-bigdata-innovation-ngram.png "Figure 1")
 
 <Callout emoji="💡">
-Figure 1: Strong interest in innovation shows e.g. in Google ngrams <Link <a href="https://books.google.com/ngrams/graph?content=innovation%2Cartificial+intelligence%2Cbig+data%2Cmachine+learning&year start=1900&year end=2019&corpus=26&smoothing=3">HERE</a></Link>.
+Figure 1: Strong interest in innovation shows e.g. in Google ngrams [HERE](https://books.google.com/ngrams/graph?content=innovation%2Cartificial+intelligence%2Cbig+data%2Cmachine+learning&year+start=1900&year+end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2Cinnovation%3B%2Cc0%3B.t1%3B%2Cartificial%20intelligence%3B%2Cc0%3B.t1%3B%2Cbig%20data%3B%2Cc0%3B.t1%3B%2Cmachine%20learning%3B%2Cc0")
 </Callout>
 
 Obviously innovation is culture dependent, for nation scale innovation see e.g. [Kottak, 1990], for enterprise innovation see [By Udo Kopka & Patrick Simon, 2020, Kristin Behrmann, 2019].
