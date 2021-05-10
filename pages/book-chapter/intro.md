@@ -4,7 +4,10 @@
 Innovation is on everyone’s mind, as shown in in Fig. 1, even more than artifi
 cial intelligence, big data, and deep learning. 
 
-![Figure 1](/ai-bigdata-innovation-ngram.png)
+![Figure 1](/ai-bigdata-innovation-ngram.png "Figure 1")
+<Callout>
+Figure 1: Strong interest in innovation shows e.g. in Google ngrams https://books.google.com/ngrams/graph?content=innovation\%2Cartificial+intelligence\%2C big+data\%2Cmachine+learning&year start=1900&year end=2019&corpus=26&smoothing=3. Similar picture emerges in Google Trends (not shown here): https://trends .google.com/trends/explore?date=2005-12-09\%202020-12-09&geo=US&q=innovation,artificial\%20intelligence, big\%20data, machine\%20learning
+</Callout>
 
 Obviously innovation is culture dependent, for nation scale innovation see e.g. [Kottak, 1990], for enterprise innovation see [By Udo Kopka & Patrick Simon, 2020, Kristin Behrmann, 2019].
 Moreover, innovation is also a process of adaptation [George & Lin, 2017], a common feature not only of the artificial world [Simon, 2019], but also of the natural world, and as such subject to investigations resulting in finding relevant ‘laws’ [Lamsdell & Braddy, 2010].
@@ -12,6 +15,4 @@ Notwithstanding this broader context, in the core of this article, by innovation
 
 Innovation analytics can be defined as the use of data to enable the design and marketing of new products and services. By consumer innovation we mean a development cycle ending in a new consumer product launch. Focused particularly on advancement in the context of an exponential growth in consumer behavioral and marketing performance data via adoption of networked digital commerce, search and communication platforms (e.g. Amazon, Google, Facebook).
 
-<Callout>
-Figure 1: Strong interest in innovation shows e.g. in Google ngrams https://books.google.com/ngrams/graph?content=innovation\%2Cartificial+intelligence\%2C big+data\%2Cmachine+learning&year start=1900&year end=2019&corpus=26&smoothing=3. Similar picture emerges in Google Trends (not shown here): https://trends .google.com/trends/explore?date=2005-12-09\%202020-12-09&geo=US&q=innovation,artificial\%20intelligence, big\%20data, machine\%20learning
-</Callout>
+
