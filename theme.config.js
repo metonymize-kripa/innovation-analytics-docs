@@ -37,5 +37,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()}, © Nextra, Metonymize.</>
+  footerText: <>MIT {new Date().getFullYear()}, © Nextra, Metonymize, Surprisingly Obvious LLC.</>
 }
