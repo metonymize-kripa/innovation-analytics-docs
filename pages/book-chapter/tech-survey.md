@@ -1,9 +1,8 @@
 # Survey of State of art Technology & Algorithms
 
+## McKinsey's Survey of AI for Executives
 <Bleed full>
 <iframe src="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai"
-     width="700"
-     height="550"
      title="McKinsey's Survey of AI for Executives"
    ></iframe>
 </Bleed>
