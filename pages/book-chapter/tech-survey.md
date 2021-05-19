@@ -3,6 +3,8 @@
 ## McKinsey's Survey of AI for Executives
 <Bleed full>
 <iframe src="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai"
+     width="1000"
+     height="600"
      title="McKinsey's Survey of AI for Executives"
    ></iframe>
 </Bleed>
